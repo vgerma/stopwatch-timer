@@ -4,13 +4,13 @@ This is a React-based Stopwatch and Timer application that allows users to track
 
 ## Features
 
-#### Stopwatch
+### Stopwatch
 * Start and stop the stopwatch.
 * Reset the stopwatch to zero.
 * Pause the stopwatch.
 * Displays time in hours, minutes, and seconds.
 
-#### Timer
+### Timer
 * Set a countdown timer by specifying hours, minutes, and seconds.
 * Start and pause the timer.
 * Reset the timer to the initial settings.
