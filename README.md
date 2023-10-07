@@ -21,6 +21,9 @@ This is a React-based Stopwatch and Timer application that allows users to track
 
 ![Timer](/public/Screenshot%20(173).png "Timer screenshot")
 
+## Live Site
+[Click Here](https://stopwatch-timer-react.netlify.app/) for the live site deployed using [Netlify](https://www.netlify.com/).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
